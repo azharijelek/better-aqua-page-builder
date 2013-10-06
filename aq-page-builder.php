@@ -68,6 +68,6 @@ aq_register_block('AQ_Tabs_Block');
 
 //fire up page builder
 $aqpb_config = aq_page_builder_config();
-$aq_page_builder =& new AQ_Page_Builder($aqpb_config);
+$aq_page_builder = new AQ_Page_Builder($aqpb_config);
 if(!is_network_admin()) $aq_page_builder->init();
 
