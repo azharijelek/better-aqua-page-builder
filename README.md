@@ -4,6 +4,6 @@ You can find the original version by author here:
 https://github.com/syamilmj/Aqua-Page-Builder
 
 ### Features Added in this version:
-* Added: Each Block Settings is in Bootstrap Modal Box.
+* Added: Each Block Settings are in Bootstrap Modal Box.
 * Added: Richtext Editor (TinyMCE). It's Integrated with wp_media button too. And it's works nicely. Just drag and drop the blocks to the builder area. 
 * Changed: Better UI Experience.
